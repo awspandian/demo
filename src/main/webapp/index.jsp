@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2Happy Holidays!</h2>
+<h2> Happy Holidays!</h2>
 </body>
 </html>
